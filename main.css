@@ -1,0 +1,74 @@
+body {
+    overflow-x: hidden;
+    font-size: x-large;
+}
+
+h2 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color:brown;
+}
+
+sub {
+    font-size: xx-small;
+}
+
+a:hover {
+    text-decoration: dashed;
+    color: peachpuff;
+}/*마우스 올림*/
+
+
+
+nav {
+    width: 100vw;
+    height: auto;
+    /*margin: 0;*/
+    border: 0;
+}
+
+article {
+    margin: 0%;
+
+}
+table {
+    padding: auto;
+    margin: auto;
+    text-align: center;
+    width: 70%;
+    align-self: center;
+    table-layout: fixed;
+    
+}
+
+tr {
+    width:100%
+    
+}
+
+div {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+iframe {
+    border: none;
+    border-spacing: no;
+}
+
+audio {
+    margin-left: 30px;
+}
+
+sub {
+    margin-left: 40px;
+    margin-top: 0px;
+}
